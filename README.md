@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a Data Science Prjects<br>👯 I’m looking to collaborate Deep Learning<br>🤝 I’m currently learning AWS<br>💬 Ask me about data automation<br>⚡ Fun fact -  I am lazy but smart
+🔭 I’m currently working on a Data Science Projects<br>👯 I’m looking to collaborate Deep Learning<br>🤝 I’m currently learning AWS<br>💬 Ask me about data automation<br>⚡ Fun fact -  I am lazy but smart
 
 
 ## 🌐 Socials:
