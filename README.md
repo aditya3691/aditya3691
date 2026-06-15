@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working as a Cloud Engineer <br>👯 I’m looking to collaborate on tolpics like AI Enginnering projects <br>💬 Ask me about data automation <br>⚡ Fun fact -  I am lazy but smart
+🔭 I’m currently working as a Cloud Engineer <br>👯 I’m looking to collaborate on topics like AI Enginnering projects <br>💬 Ask me about data automation <br>⚡ Fun fact -  I am lazy but smart
 
 
 ## 🌐 Socials:
