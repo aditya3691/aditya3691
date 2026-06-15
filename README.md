@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a Data Science Projects<br>👯 I’m looking to collaborate Deep Learning<br>🤝 I’m currently learning AWS<br>💬 Ask me about data automation<br>⚡ Fun fact -  I am lazy but smart
+🔭 I’m currently working as a Cloud Engineer <br>👯 I’m looking to collaborate on tolpics like AI Enginnering projects <br>💬 Ask me about data automation <br>⚡ Fun fact -  I am lazy but smart
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=aditya3691&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya3691&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya3691&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditya3691&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aditya3691&icon=0&color=0)](https://visitcount.itsvg.in)
